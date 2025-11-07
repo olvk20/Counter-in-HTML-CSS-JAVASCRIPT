@@ -1,0 +1,26 @@
+.countLabel{
+    display: block;
+    text-align: center;
+    font-size: 10em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.buttoncontainer{
+    text-align: center;
+    margin-top: 20px;
+}
+.buttons{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: black;
+    background-color: white;
+    cursor: pointer;
+    transition: background-color 0.25s;
+}
+.buttons:hover{
+    background-color: lightgray;
+}
+.background{
+    background-color: gray;
+    height: 100vh;
+    padding-top: 50px;
+}
